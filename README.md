@@ -34,6 +34,13 @@ If you use this program or a modified version of it for research purposes please
 
     }
 
+TODO
+----
+- [ ] Use sqlite3 for data storage
+- [ ] Add data labeling functions
+- [ ] Enable data export funcion
+- [ ] Modularize statistical analyses
+
 Features
 --------
 
