@@ -1,0 +1,12 @@
+name: pfla
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - dlib
+  - progress
+  - rpy2
+  - r-base
+  - r-shape
+  - r-foreach
